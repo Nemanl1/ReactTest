@@ -49,7 +49,7 @@ class Game extends React.Component {
                 Array(9).fill(null)
             ],
             stepNumber: 0,
-            isXNext: true
+            xIsNext: true
         }
     }
 
